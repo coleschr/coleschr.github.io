@@ -102,8 +102,8 @@ section .col-sm-3 img {
   display: block;
   margin: auto;
   width: 85%;
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 footer ul {
