@@ -94,12 +94,16 @@ h8 {
 section .col-sm-4 img {
 	margin: auto;
 	width: 85%;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 section .col-sm-3 img {
   display: block;
   margin: auto;
-  max-width: 85%;
+  width: 85%;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 footer ul {
